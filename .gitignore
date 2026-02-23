@@ -1,0 +1,35 @@
+# Build outputs
+x64/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Object files
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.exp
+*.lib
+
+# Executables
+*.exe
+
+# Build recipe
+*.recipe
